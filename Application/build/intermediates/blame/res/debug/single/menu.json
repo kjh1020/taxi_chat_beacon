@@ -6,5 +6,13 @@
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\taxi_chat_beacon\\Application\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\taxi_chat_beacon\\Application\\src\\main\\res\\menu\\main.xml"
     }
 ]

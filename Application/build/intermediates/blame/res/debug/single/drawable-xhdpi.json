@@ -1,7 +1,7 @@
 [
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_mono_dark.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_mono_dark.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_pause_light.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_light.png",
@@ -12,36 +12,24 @@
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_light.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_pause_light.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_dark.png",
@@ -60,12 +48,256 @@
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_light.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_off_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_light.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_stat_ic_notification.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\src\\main\\res\\drawable-xhdpi\\ic_stat_ic_notification.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_dark.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_mono_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\firebase_lockup_400.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xhdpi\\firebase_lockup_400.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_play.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_disabled_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_pause.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_light.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_0_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_mono_dark.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -76,24 +308,16 @@
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_popup_background_mtrl_mult.9.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_light.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_light.png"
-    },
-    {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_2_light.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_2_light.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_disabled_light.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_disabled_light.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_light.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_light.png"
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
@@ -108,16 +332,28 @@
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_play.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_play.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_dark.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_dark.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_off_mono_dark.png",
@@ -132,56 +368,60 @@
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\firebase_lockup_400.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\src\\main\\res\\drawable-xhdpi\\firebase_lockup_400.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_pause.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_pause.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_1_light.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_1_light.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_off_mono_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_off_mono_dark.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_1_light.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_1_light.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_1_mono_dark.png"
     },
     {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\firebase_lockup_400.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\src\\main\\res\\drawable-xhdpi\\firebase_lockup_400.png"
+    },
+    {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_setting_light.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_go_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_mtrl_alpha.png",
@@ -192,36 +432,44 @@
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_clear_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_dark.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_pause_dark.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_route_on_0_mono_dark.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_2_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_2_light.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_pause_dark.png"
+    },
+    {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_setting_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_1_light.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_1_light.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_cut_mtrl_alpha.png",
@@ -232,16 +480,12 @@
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_off_light.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_media_pause.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_media_pause.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_light.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_cast_on_light.png"
-    },
-    {
-        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png",
-        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play_dark.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-xhdpi\\ic_play_dark.png"
     },
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_cast_on_0_light.png",
@@ -250,5 +494,13 @@
     {
         "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png",
         "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\taxi_chat_beacon\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
     }
 ]
