@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
+    }
+]

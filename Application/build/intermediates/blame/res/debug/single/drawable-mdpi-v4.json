@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_1.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-mdpi-v4\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_ic_googleplayservices.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_clear.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_on.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-mdpi-v4\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_dark.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_0.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-mdpi-v4\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_full_open_on_phone.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\cast_ic_notification_2.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.0\\res\\drawable-mdpi-v4\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\powered_by_google_light.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\places_ic_search.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-mdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.0\\res\\drawable-mdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.0\\res\\drawable-mdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    }
+]

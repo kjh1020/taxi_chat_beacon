@@ -1,0 +1,7 @@
+#Wed Oct 26 15:42:47 KST 2016
+base.0=E\:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9f45e2523f686b6d167a5428b441b0a6efcecf70
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0ec36789100d8effa10f6c618acd8d7040bd8b55\\classes.dex
+base.1=E\:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0ec36789100d8effa10f6c618acd8d7040bd8b55
+file.0=E\:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9f45e2523f686b6d167a5428b441b0a6efcecf70\\classes.dex

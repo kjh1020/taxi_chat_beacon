@@ -1,0 +1,10 @@
+<resources>
+    <string name="title_activity_login">Join</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">닉네임을 입력하세요</string>
+    <string name="action_sign_in">입장</string>
+    <string name="action_sign_in_short">입장</string>
+
+    <string name="error_field_required">필수항목입니다.</string>
+</resources>

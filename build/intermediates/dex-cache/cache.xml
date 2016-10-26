@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3f87787e345d2799e2e901fc95959685180ae85a">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0ec36789100d8effa10f6c618acd8d7040bd8b55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_4c7fe358c4200b7da3fdc5c6ae1a3cdc6e0d482b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_399b5a85b035255a9b695e025117a17f87383333\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_80e80e188b79cd170ba725f2f705e066342620f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_afc7d423de6413ab58456ea854e6229ff9fda65e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_c4bc6583d5b719a021e0ad2536b326c28b609cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_b1d18a91cd5fa7fad999d88177bb4fd29a42930d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\retrofit\2.0.0-beta2\880d9e0997b2d1bfc98e0d121ced33ee5d04aac4\retrofit-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta2_0e825aca3932298bdcf6a78a89e8ba0e6351d643\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_6a4620ab07215e88b8f00533b669ffa3bbc36382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\adapter-rxjava\2.0.0-beta1\27db6ccd014c866500af30d92fbfad0e3cc99ee8\adapter-rxjava-2.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="27db6ccd014c866500af30d92fbfad0e3cc99ee8">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.0-beta1_b2ef1d4debdd7d85521dc6db99be343de067ed65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_e11e95a225d299614eedcd410f95c0443400bbfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_4d7bf7e6f903ab2cca71d91dab54666d253b87a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_779bba32ea1c3c154f8ca17acc90cc6b02c3b78a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_605d3e51d950b3c3016943dc18f5550141ba3741\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_799d2f1676135cef7fa60886bfa1efb346737c40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_300a6d79db92c80b901a41cc2d0bd5d066f5c53a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_a3f39d8f410f4cdb99685caf191096bb85e8c9e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_08c6678e87f6f99b24b72bc2c68e97a0f48be377\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.0_e4bbfea4511f75fff02bab179aa0228f654a74dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_3f0ddd666a231a31fd6ca932ad3a7fd4848faab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_c102b01922f2a6b2be4ba88005911c4ea6b6642a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_5b7eb0506b98a940d6f34e4c3c7afea847e98391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.0_2fd0c50e07bc4846c64f179204756575a21459ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_3aedd6da2a441889b84bf2168110d41c755debdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_f7cd91e11f4876cbb8c092fe77be4ae31dc344e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_76596511d8af8412a2a5803e16cefd7cd7e9ed4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_46cdc7ba8383fe208e1e79679a5df4f5bc95f773\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.0_16527e03af65a65404e77b1e9d88335d91d21fa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_62888c2a64307871dfc8b07bb74eccd8aaf28e3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.8.1\b6c4a3afc589a8c6fa10ecc38eb1beede8006838\socket.io-client-0.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b6c4a3afc589a8c6fa10ecc38eb1beede8006838">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\socket.io-client-0.8.1_79a4d40422345b7863d16d8f2dfe3269db1f8e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7b04ad0b250fc0bb06acce075321c14560f9a698">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9f45e2523f686b6d167a5428b441b0a6efcecf70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_168bc0d0811870920e8ff3ba36a9b7bc4ca03b46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_960fa74407b36b8d03110ba0549898b3f904db47\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_ebaa35a26bafe4cf13c4c22fa77ead957f96b571\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_b9b2a9e975b3a91c904a87135f2d6198cbf075bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c4caf832116bca1f2e140bf1fb600e2edd190837">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.2.1_2bf29c1f3fd42e88f7fdaf977c0accada678c199\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.2.1_2891daadb12576fa25c54276ddb2368fd8d9375b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.0_99bdef4ed8c0442daf94d3959d1a03384a14da78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_f908d33c0ed504f5dae4c22f64f90c2276fe0259\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_e24c47d8c5681eb61f5344226398f41ee5f40657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\io.socket\engine.io-client\0.8.1\c84b11d25ae405edc4260d2dcf430fdd21c2c8d9\engine.io-client-0.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c84b11d25ae405edc4260d2dcf430fdd21c2c8d9">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\engine.io-client-0.8.1_9e137cb327ddc83b0625da085104f672b8fb9b8e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_545f7a627a8ce9b6c3662d5382b336bc76fcbb38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_eb2405a124f6d0a589146c58a6ffb4303a6f1785\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_91f448783cf708348552491477a234508cb7a203\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_d84d0962529ee24cd2f6ff3332d4b949cd7af23a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_f5fb2072125d37979e58e50f27729746546e25f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_2b7371e24c595bb7897c5e27ac6d397317afe20b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6fc4c7067459e8d69e1bbcb3a8973cdd84d5d87b">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_c233ab66c6a01cd6e2bb44b63eeeea40dc66e2ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.0_e324fe3ad2d4be0b427f0310bb1a1b711056f77f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.2.1_8e9054f866d6c43395ee3720e4967a72b929fca6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.0_240d9145d2f71b49f3a2c2adace3d6a707298b77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_9de6d828bc688c60bbe10e72fae0cec4f2ebe924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_d757e0d0b91272cb801cf3e845b90947a9d95dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.0_58f91bcc3106b0afd984f935452e4b8b925273a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.0.14\898f9ab61e2a23afd615f0b0389478bec86f49f9\rxjava-1.0.14.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.0.14_70c56e417943f4509beace5704852f33a6b266c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_b41270ed26b97ecf5cfff895454c9ab289ea6d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_47fbf3767c327e4494a4bff683b2da65ac1ef9e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3.1_33e6a92b114e0e187a9439707dcdd48fdc41b13e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_2af797d1f22331f83671ac11de86d7e77190a034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_239584eef52d889373ffad195a3e182c7c0014d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_324ce68467d40013c75f779ec69af4847598c544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_18e07fc19d32180fa37e73307211f15e04c89c4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_276fc812beff614c3d028d0f7ca0bd12d891ee74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_8fc408cfff33bcc4fc1edc0d0e657a763319e7dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit\converter-gson\2.0.0-beta2\392c3d09e0f5e7087544093cc0cb23bb9c7af5fa\converter-gson-2.0.0-beta2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta2_24ac1c5ca37f75f1980d0591dcd93ca8f1ebafbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.4.1_b8f08672750ddc0b08e8c4b3d77a4efc8591c27c\classes.dex" />
+    </item>
+
+</items>
