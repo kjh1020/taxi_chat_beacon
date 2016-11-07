@@ -50,6 +50,7 @@ class ThreadEx extends Thread  {
                         if (line == null) {
                             break;
                         }
+
                         sb.append(line);
 
 

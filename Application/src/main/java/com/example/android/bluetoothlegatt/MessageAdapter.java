@@ -79,6 +79,7 @@ public class MessageAdapter extends RecyclerView.Adapter<MessageAdapter.ViewHold
         public void setMessage(String message) {
             if (null == mMessageView) return;
             mMessageView.setText(message);
+
         }
 
         private int getUsernameColor(String username) {
