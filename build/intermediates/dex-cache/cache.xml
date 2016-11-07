@@ -39,6 +39,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.0_da061cf746c730a67fb886041a18b33b4b514dbe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -48,12 +57,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.0_b0c49d453feb39ca5af8544898ece3e39d08c19b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.0"
         sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_c4bc6583d5b719a021e0ad2536b326c28b609cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.0_7ad477bf2b40429588aaa1a7611a6bb84ab446be\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,12 +102,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c4caf832116bca1f2e140bf1fb600e2edd190837">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v13-22.2.1_f597d944035a66cfa4f1ed3a00d31924157a7fdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6fc4c7067459e8d69e1bbcb3a8973cdd84d5d87b">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_171ff96ca913f92e7fb0e6532d0e344f25350404\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.0_0ba259d628ecf8d7dd8dfdad42a7b7bd14d1b9ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.0"
         sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_6a4620ab07215e88b8f00533b669ffa3bbc36382\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.0_cd9d1ca1f31314070e6eebb7b66dc7ba6066bc76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_1a1a3ce8604b6aafd35b080952b4a850770fcf93\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -102,6 +174,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.0_b6352cb2dd14c18be04a0052317a980ff6b7f43c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -117,6 +198,15 @@
         revision="23.0.0"
         sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_779bba32ea1c3c154f8ca17acc90cc6b02c3b78a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_7099c946c98f9a31c20740dc8c5bd8cf676e37ac\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -183,6 +273,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_2db2586f9a56bab74b3165765d4f2f99442b69bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -198,6 +297,24 @@
         revision="23.0.0"
         sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_5b7eb0506b98a940d6f34e4c3c7afea847e98391\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_5aaa922c9c604914a70ee683545fe4c7444c08a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_7f6bd4511826fd56e7d267e4cfd2c0a5b16804ba\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -255,6 +372,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.0_88cb89b2da7c3b140872c86dc0610b126cea08f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.0_058d0dd43bc0e089ce9d9ad3261c99721d61fae9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -264,12 +399,39 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.0_d00d7554d180107b0d6e111465213d44481ea786\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\user\.gradle\caches\modules-2\files-2.1\io.socket\socket.io-client\0.8.1\b6c4a3afc589a8c6fa10ecc38eb1beede8006838\socket.io-client-0.8.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.0"
         sha1="b6c4a3afc589a8c6fa10ecc38eb1beede8006838">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\socket.io-client-0.8.1_79a4d40422345b7863d16d8f2dfe3269db1f8e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.0_44ac29e2309b297d2764ea52fe16f3dcb5f346a4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.0_2b3b23e045152f2af6147e6e435d42a1ab4f5580\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -291,6 +453,51 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.0_286e359dcc3b7c9bfb75bfe6690621b12eed438b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.0_852ffae513a6cf89c54b9b7f6f1cae975814c72a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_180862c164bc5bd18e55c360b0aab9015149a89b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.0_9e940093339e47c1fc2286361bbdce67b579ee78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.2.1_dedf2920cb0fe0185b05afbf531f75b3c05dfaa1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -309,12 +516,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.0_6db3a1082b387d3d5d43de12cebcd864a1237da7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_28224fa9d92bbb1b20e3c44c2aa9d2ef91223c15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.0"
         sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_b9b2a9e975b3a91c904a87135f2d6198cbf075bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.0_f5397734582f3be527442000108328e36fe0cc61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="997f727c98005e7e60a23e873d3cd37e0e90e5fd">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3b9a284a32da19ce7e1dd00037b2924147aa088c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.0_508c7ca6241d14a44189753792925a5a31a9818b\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -333,6 +585,24 @@
         revision="23.0.0"
         sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.2.1_2891daadb12576fa25c54276ddb2368fd8d9375b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.0_b24cb2c0a85c0f9b4240ec82ce801908382ccc30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_f186aa3096d005157170bec59d5413f32d499a78\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -408,12 +678,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.0_51923238e3b9eb9c2b5b011388e83f6e6461e997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.0"
         sha1="733964f04c339e425439545b1d172c23b53f8c13">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.0_f5fb2072125d37979e58e50f27729746546e25f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_767d66eff238c5c35745b40e5798b735373047bf\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -471,12 +759,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c6b728f70aa508e3a4d3527a8b587e090b780c60">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_712b370d83e6ec38c1dcb9e7bd6cd6f03ef69b05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.0_2a80b7b33177b39513a46d8bdebc6cd633e81732\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.0"
         sha1="ebfde1a055aea400df77584a68aa60609f618bed">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_d757e0d0b91272cb801cf3e845b90947a9d95dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_df44e0916765efa2e98edb8a891de66e96e8cd62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_26185130f7fa4a54435cfba29dbee167e93ffee0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_0018c100a87b6a926e0ed8fe8fa3b6428f5debf7\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -525,6 +858,69 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.0_cd199252058dbe40e3b017a759f8b584b3df9790\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_945194bc3948c103b0904d492438ae74d5a2ed11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.0_299353aebb7f370133b566889814df528e87307b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.0_f40722cbf52ea213d06d0db801664745a03628a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_be4446feed06f95f3c6f0eb6f21e8c340ccba2bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.0_5680752d01520c66618e7a178c84fef18d245d93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.0_f637e623e80638c25f486a99ffd21a78bc52be51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -543,12 +939,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.0_1dc6c28fbe21cd9e5117547e49de5bb0edb28271\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.0"
         sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.0_324ce68467d40013c75f779ec69af4847598c544\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.0_58cdd93e8e70663b4e6818c92ad43e876c08f0a7\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -561,6 +975,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.0_a70732008222d5acdeec384a9d6f45b40feaefab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
         jumboMode="true"
         optimize="true"
@@ -570,12 +993,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_a8b8dcbd718970baebe2206f1b35cad6cc33e6f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.2.1_2c110511a70a920e28e49ce98f233a4c398ec2bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.0_bdfde12b0b62146183ff56a7d2391c775e6517de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.0"
         sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.0_8fc408cfff33bcc4fc1edc0d0e657a763319e7dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.0_84d9a1bf126bfa099bcbb0779444651f5441c8b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.0_40e74dd5c872422f0e76205dba224c44ddaeff0c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -594,6 +1062,24 @@
         revision="23.0.0"
         sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
         <dex dex="E:\sources\chap20\BluetoothLeGatt\Application\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-ws-3.4.1_b8f08672750ddc0b08e8c4b3d77a4efc8591c27c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.0_d221179322b52af8f721367207cdf6de98da59f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\taxi_chat_beacon\Application\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="C:\taxi_chat_beacon\Application\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_5da2fa66a7a37f9201e65511e513252bfc0c8d9c\classes.dex" />
     </item>
 
 </items>

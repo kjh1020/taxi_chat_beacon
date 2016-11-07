@@ -91,14 +91,7 @@ public class DeviceScanActivity extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         mHandler = new Handler();
-        /*
-            폰의 고유 id 획득
-         */
-        phone_id = Settings.Secure.getString(this.getContentResolver(), Settings.Secure.ANDROID_ID);
 
-        System.out.println("안드로이드 고유 id" + phone_id);
-        String phonenumber = ((TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE)).getLine1Number();
-        System.out.println("자기 전화번호 " + phonenumber);
 
 
         getActionBar().setTitle(R.string.title_devices);

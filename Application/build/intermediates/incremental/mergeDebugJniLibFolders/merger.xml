@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\sources\chap20\BluetoothLeGatt\Application\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="E:\sources\chap20\BluetoothLeGatt\Application\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\taxi_chat_beacon\Application\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\taxi_chat_beacon\Application\src\debug\jniLibs"/></dataSet></merger>

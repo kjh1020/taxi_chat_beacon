@@ -582,8 +582,6 @@ public class MainFragment extends Fragment {
 
                     btn.setVisibility(View.INVISIBLE);
                     rg.setVisibility(View.VISIBLE);
-
-
                 }
             });
         }

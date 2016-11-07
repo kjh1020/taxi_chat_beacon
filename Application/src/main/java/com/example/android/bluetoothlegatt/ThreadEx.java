@@ -62,7 +62,6 @@ class ThreadEx extends Thread  {
         } catch (Exception e) {
             Log.e("Exception", e.getMessage());
         }
-
         try {
             if (json != null) {
                 Log.e("json", json);
@@ -76,8 +75,6 @@ class ThreadEx extends Thread  {
                 for (Beacon ble : lcs) {
                     BleSingleList.add(ble);
                 }
-
-
             }
         } catch (Exception e) {
             Log.e("Exception", e.getMessage());

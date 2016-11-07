@@ -1,7 +1,7 @@
-#Wed Oct 26 15:42:47 KST 2016
-base.0=E\:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9f45e2523f686b6d167a5428b441b0a6efcecf70
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=E\:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0ec36789100d8effa10f6c618acd8d7040bd8b55\\classes.dex
-base.1=E\:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_0ec36789100d8effa10f6c618acd8d7040bd8b55
-file.0=E\:\\sources\\chap20\\BluetoothLeGatt\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_9f45e2523f686b6d167a5428b441b0a6efcecf70\\classes.dex
+#Wed Oct 26 22:49:18 KST 2016
+base.0=C\:\\taxi_chat_beacon\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3b9a284a32da19ce7e1dd00037b2924147aa088c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\taxi_chat_beacon\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_712b370d83e6ec38c1dcb9e7bd6cd6f03ef69b05\\classes.dex
+base.1=C\:\\taxi_chat_beacon\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_712b370d83e6ec38c1dcb9e7bd6cd6f03ef69b05
+file.0=C\:\\taxi_chat_beacon\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3b9a284a32da19ce7e1dd00037b2924147aa088c\\classes.dex

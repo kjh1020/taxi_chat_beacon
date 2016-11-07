@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
+    abi="armeabi-v7a,armeabi"
     api-level="23"
     density="xxxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="48042556856405"
-    token="-556415870059752045"
+    timestamp="73634750668670"
+    token="-8895197295898758161"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="574" />
+        duration="1482" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="647" />
+        duration="1077" />
     <task
         name="verifier"
-        duration="338" />
+        duration="538" />
 
     <artifact
-        location="E:\sources\chap20\BluetoothLeGatt\Application\build\outputs\apk\Application-debug.apk"
+        location="C:\taxi_chat_beacon\Application\build\outputs\apk\Application-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="48042556856405"
+        timestamp="73634750668670"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\sources\chap20\BluetoothLeGatt\Application\build\outputs\apk\Application-debug.apk"
+            location="C:\taxi_chat_beacon\Application\build\outputs\apk\Application-debug.apk"
             type="MAIN" />
     </build>
 
